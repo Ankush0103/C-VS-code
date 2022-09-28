@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+    float var = 34.5678;
+    printf("%.2f", var);
+    return 0;
+}

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "C VS code"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sum of two numbers": "cpp"
+		}
+	}
+}
